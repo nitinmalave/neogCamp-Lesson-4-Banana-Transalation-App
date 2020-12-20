@@ -1,1 +1,1 @@
-# neogCamp-Lesson-4-Banana-Transalation-App
+# neogCamp-Lesson-4 - Banana Transalation App
